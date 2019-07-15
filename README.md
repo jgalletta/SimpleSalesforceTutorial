@@ -4,7 +4,7 @@ Hello everyone and welcome to my simple-salesforce tutorial for Python noobs
 1. If you are a complete Python noob, please follow this guide on how to setup your Python environment: 
     https://cs1110.cs.virginia.edu/lab01-installing.html
 
-2. After you do this we now want to install the simple-salesforce package.  
+2. After your environment is setup, we now want to install the simple-salesforce package.  
 
     Open terminal and run the following command: pip install simple-salesforce
 
