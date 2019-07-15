@@ -10,9 +10,9 @@ Hello everyone and welcome to my simple-salesforce tutorial for Python noobs
 
     If that doesn't work, do this: sudo pip install simple-salesforce
 
-3. Load your .py file into your IDE and fill lines 11 and 12 with your credentials (between the two apostrophes) in order to connect with your org
+3. Load your .py file into your IDE and fill lines 11 and 12 with your credentials of your demo org (between the apostrophes), in order to connect the code to Salesforce
 
-4. Now you are all set, follow the tutorials, and start messing around in your Salesforce org with Python.
+4. Now you are all connected, follow the tutorials, and start messing around in your Salesforce org with Python.
 
 IMPORTANT NOTE: The provided .py file will not alter your org out of the box
 
